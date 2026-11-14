@@ -97,7 +97,7 @@ A fegyvereket tilos eldobni. Ez alól az egyetlen kivétel a köpeny, amely eldo
 <span id="MIX-1.4"></span>  
 
 **MIX-1.4.1**  
-A normál Blade Brawl Utántalálat (Afterblow) szabályai érvényesek minden csörtére, függetlenül attól, hogy a fegyver egy- vagy kétkezes, illetve egy vagy két kézzel fogják-e.  
+A Utántalálat (Afterblow) rendszer szabályai érvényesek minden csörtére, függetlenül attól, hogy a fegyver egy- vagy kétkezes, illetve egy vagy két kézzel fogják-e.  
 
 **MIX-1.4.2**  
 **Kiemelt találati felület (Priority target) - 2 pont:** Fej, torzó, felkar.  
@@ -192,7 +192,7 @@ A megengedett maximális hajlítóerő a penge hosszához és a tartományba es�
 - **Egykezes kard, hosszú penge (80 cm felett):** Max 11 kg (pl. szablyák, rapírok)
 
 A pontban hossz határra eső pengék esetében a rövidebb kategóriába tartozó fegyvernek kell minősíteni.
-(Például egy 70 cm hosszú penge a rövid kategóriába tartozik, és a 19 kg-os hajlítóerő-korlátozás vonatkozik rá.)
+(Például egy 80 cm hosszú penge a rövid kategóriába tartozik, és a 15 kg-os hajlítóerő-korlátozás vonatkozik rá.)
 
 ### Hárító fegyverek specifikációi  
 <span id="MIX-2.3"></span>  
@@ -213,11 +213,11 @@ A pajzzsal nem lehet pontot szerezni, és a pajzzsal történő ütés tilos.
 Az ellenfél kezének karddal történő eltolása a megfogással azonos elbírálás alá esik (lásd MIX-2.4.6 és MIX-2.4.7): a vezetőbíró megállítja a csörtét, és kizárólag a kéz eltolása után szinte azonnal induló találat tekinthető érvényesnek.  
 
 **MIX-2.3.4**  
-**Két hárítófegyver (pl. két pajzs, pajzs és köpeny, vagy két köpeny):** Két hárítófegyver egyidejű használata engedélyezett. Mivel hárítófegyverrel (pajzs, köpeny) pontot szerezni nem lehet, két hárítófegyver esetén pont kizárólag akkor érhető el, ha az ellenfelet a vívó erőszakmentesen a pást határának teljes átlépésére kényszeríti (mindkét lábbal a páston kívülre). Ez 1 pontot ér.
+**Két hárítófegyver (pl. két pajzs, pajzs és köpeny, vagy két köpeny):** Két hárítófegyver egyidejű használata engedélyezett. Mivel hárítófegyverrel (pajzs, köpeny) pontot szerezni nem lehet, két hárítófegyver esetén pont kizárólag akkor érhető el, ha az ellenfelet a vívó erőszakmentesen a pást határának teljes átlépésére kényszeríti (mindkét lábbal a páston kívülre).
 Az ellenfél erővel történő kitolása, kilökése vagy fellökése a pástról tilos. A pástról való erőszakmentes kiszorítása az ellenfélnek minden vívó számára elérhető eszköz fegyvernemtől függetlenül, így a két hárítófegyverrel történő kitolás nem jelent előnyt a másik vívóval szemben.  
 
 **MIX-2.3.5**  
-Amennyiben a két hárítófegyver egyike alkarra erősíthető (pl. alkarra szíjazott pajzs), a vívó mellé egy egykezes fegyvert is foghat. A kezelhetőség miatt ebben az esetben kizárólag rövid vagy rövid pengéjű egykezes fegyver (70 cm vagy annál rövidebb penge) használata engedélyezett.  
+Amennyiben a két hárítófegyver egyike alkarra erősíthető (pl. alkarra szíjazott pajzs), a vívó mellé egy egykezes fegyvert is foghat. A kezelhetőség miatt ebben az esetben kizárólag rövid vagy rövid pengéjű egykezes fegyver (80 cm vagy annál rövidebb penge) használata engedélyezett.  
 
 **MIX-2.3.6**  
 **Köpeny:**  
@@ -249,7 +249,7 @@ Amennyiben a vívó védési próbálkozásképp kezével belenyúl egy pengéve
 - hárítófegyverek (pajzs, köpeny) esetén a fegyver bármely felületén.  
 
 **MIX-2.4.6**  
-A birkózás nem megengedett, de egy pillanatra megfogható a másik vívó karja a találat könnyítése és/vagy védelem céljából. Amennyiben ez után nem születik szinte azonnal találat, a vezetőbírónak meg kell állítania a csörtét. A másik kezét csavarni, rántani vagy rángatni tilos. Kizárólag egyetlen kontrollált tolás, húzás vagy a kar lefogás általi akadályozás engedélyezett.  
+A birkózás nem megengedett (Kettes szintű birkózó akció), de egy pillanatra megfogható a másik vívó karja a találat könnyítése és/vagy védelem céljából (Első szintű birkózó akció). Amennyiben ez után nem születik szinte azonnal találat, a vezetőbírónak meg kell állítania a csörtét. A másik kezét csavarni, rántani vagy rángatni tilos. Kizárólag egyetlen kontrollált tolás, húzás vagy a kar lefogás általi akadályozás engedélyezett.  
 
 **MIX-2.4.7**  
 A bíró karfogás esetében azonnal megállítja a csörtét. Az „Állj” parancs kiadása előtti (a bíró észlelése és a parancs kiadása előtti) és legkésőbb a kar vagy fegyver kontrolljának pillanatában induló találati akció tekinthető érvényesnek.

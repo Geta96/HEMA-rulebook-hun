@@ -490,7 +490,7 @@ Az ellenfél pillanatnyilag hatástalanított pengéjének megfogása megengedet
 Egyes szintű bírkózó akciókkal pontot elérni nem lehet, kizárólag a saját találat adásást, vagy az ellenféltől beérkező találat megakadályozását lehet könnyíteni velük. (Ezalól az egyetlen kivételek a lefegyverző akciók)
 
 **GEN-6.9.2.7**
-A kar vagy fegyver kontrolljának pillanatában indulhat legkésőbb olyan találati akció, amely érvényesnek tekinthető. Amint a versenybíró észleli a kontrolláló akciót, a csörte megállítását kell elrendelnie, a fegyverrel való találatnak ezalatt az időablaknak alatt kell születnie.
+A kar vagy fegyver kontrolljának pillanatában indulhat legkésőbb olyan találati akció, amely érvényesnek tekinthető. Amint a versenybíró észleli a kontrolláló akciót, ‘Állj’-t kell hívnia, a fegyverrel való találatnak ezalatt az időablaknak alatt kell születnie.  
 
 **GEN-6.9.2.8**
 A lefegyverzés (mely során az egyik vívó szándékos, célirányos közelharci akció eredményeképp elveszi az ellenfele fegyverét) érvényes pontszerzési mód, kivéve ha a lefegyverzett vívó azonnal (a bírói ‘Állj’ előtt) kontrolállja az ellenfél pengéjét és folytatni tudná a birkózást.  
