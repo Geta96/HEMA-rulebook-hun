@@ -413,9 +413,12 @@ A közelharc megengedhető mindaddig, amíg a vívók fegyverüket szabályosan 
 A testérintkezés az a helyzet, amikor a két vívó egymással érintkezésbe kerül. Ha a közelharc nem engedélyezett, ekkor a versenybíró a küzdelmet köteles megállítani (Vö. [GEN-6.6.1]--[GEN-6.6.2]; [GEN-6.10.2]).
 
 **GEN-6.5.2**  
-Tilos szándékosan testérintkezést okozni találat elkerülése vagy az ellenfél fellökése céljából, kivéve abban az esetben, amikor a felek a meccs előtt a fogásos és birkózó akciók használatát jóváhagyták. Ilyen vétség esetén a versenybíró a [DIS-4.1.1]--[DIS-4.1.5], [DIS-4.1.9]--[DIS-4.1.10], [DIS-4.1.18] szakaszokban előírt, az első csoportba tartozó vétségekre vonatkozó büntetéseket alkalmazza és a vétkes vívó által esetleg adott találatot megsemmisíti.  
+Tilos szándékosan testérintkezést okozni az ellenfél kitolása, fellökése céljából, kivéve abban az esetben, amikor a felek a meccs előtt a fogásos és birkózó akciók használatát jóváhagyták. Ilyen vétség esetén a versenybíró a [DIS-4.1.1]--[DIS-4.1.5], [DIS-4.1.9]--[DIS-4.1.10], [DIS-4.1.18] szakaszokban előírt, az első csoportba tartozó vétségekre vonatkozó büntetéseket alkalmazza és a vétkes vívó által esetleg adott találatot megsemmisíti.  
 
 **GEN-6.5.3**  
+Testérintkezést okozni kézzel találat elkerülése, saját találat könnyítése vagy az ellenfél akadályozása céljából engedélyezett, amennyiben egy rövid és a szükségtelen erőszakot mellőző akció történik. A kézzel való akadályozás pillanatában legkésőbb meg kell indulnia a találatot szerző egyenes pengeakciónak, amely végrehajtására egy vívótempó áll rendelkezésre.
+
+**GEN-6.5.4**  
 Nem szegi meg a vívás alapvető szabályait és nem büntetendő a vívó, ha fless támadással vagy gyors előrehaladásával, akár többször egymás után is testérintkezést idéz elő (erőszak vagy brutalitás nélkül) (V.ö.: [GEN-6.10.1]--[GEN-6.10.2])  
 
 ### Testérintkezés és lerohanás (fless)  
@@ -463,18 +466,60 @@ ezeket a szabályszegéseket elköveti ne háttal legyen a versenybírónak. -->
 <span id="GEN-6.9"></span>  
 
 **GEN-6.9.1**  
-Fogásos küzdelem és birkózás (megfogás/kontroll/dobás/földrevitel) egy mérkőzésen belül csak abban az esetben engedhető meg, **ha abba mindkét fél beleegyezett a mérkőzés megkezdése előtt**. Amennyiben az egyik fél nem vállalja a birkózást, annak okára nem kell magyarázatot adnia. Csapatmérkőzéseken a csapattagok egyénileg dönthetnek arról, hogy az adott ellenféllel vállalják-e a birkózást.  
+Fogásos küzdelem és birkózás (megfogás/kontroll/dobás/földrevitel) kettő kategóriába oszthatóak. Első szintű bírkózásos akciók és kettes szintű bírkózásos akciók.
 
-**GEN-6.9.2**  
-Birkózó akciónak számít minden közelharci akció, amit nem fegyverrel hajtanak végre (kézzel/lábbal/fejjel/stb. végzett technikák, fogások, lefegyverzések, ütések), illetve amik fegyverrel a közvetlen találatadás helyett az ellenfél testrészeinek manipulálását szolgálják.  
-Amennyiben valamelyik ellenfél nem egyezett bele birkózásba a mérkőzésen, úgy bármilyen birkózó akció kezdeményezője a fegyelmi vétségek első csoportjába tartozó szabálytalanságot követ el és vele szemben a versenybíró a a [DIS-4.1.1]--[DIS-4.1.5], [DIS-4.1.9]--[DIS-4.1.10], [DIS-4.1.18] szakaszokban írt szakaszokban előírt büntetést alkalmazza.  
+### Egyes szintű (könnyű) bírkózó akciók
+<span id="GEN-6.9.2"></span>  
 
-**GEN-6.9.3**  
-A bíró megállíthatja a mérkőzést huzamosabb idejű sikertelen közelharc vagy birkózás után (ezt a bíró saját hatáskörében ítéli meg).  
+**GEN-6.9.2.1**  
+Egyes szintű akciók minden párbajban engedélyezettek, a vívók külön beleegyezése nélkül.
+
+**GEN-6.9.2.2**  
+Egyes szintű akciónak minősülnek a megfogás/kontroll teremtésére szolgáló akciók. Ezen akciókat a vívó a karjával tudja kizárólag végrehajtani.
+
+**GEN-6.9.2.3**
+Kizárólag az ellenfél kezének a manipulálása megengedett az Egyes szintű bírkózó akciókon belül. Az ellenfél fejének, testének, lábainak a manipulálása ezen a kategórián belül nem megengedett.
+
+**GEN-6.9.2.4**
+A másik kezét csavarni, rántani vagy rángatni tilos. Kizárólag egyetlen kontrollált tolás, húzás vagy a kar lefogás általi akadályozás engedélyezett.
+
+**GEN-6.9.2.5**
 Az ellenfél pillanatnyilag hatástalanított pengéjének megfogása megengedett. Akkor ítélhető pont, ha a penge kézzeli megfogása futólagos, és azt azonnal követi egy fegyverrel adott találat. Ha a penge kézzeli megfogása következtében nem sikerül találatot elérni, a bíró megállítja az asszót, és nem ítél pontot. Ha a birkózást kezdeményező fél az ellenfél fegyverét előbb nem hatástalanítja, és találatot kap, az ellenfélnek kell pontot ítélni.  
 
-**GEN-6.9.4**  
-Pontszerző birkózó akciók:  
+**GEN-6.9.2.5**
+Egyes szintű bírkózó akciókkal pontot elérni nem lehet, kizárólag a saját találat adásást, vagy az ellenféltől beérkező találat megakadályozását lehet könnyíteni velük.
+
+**GEN-6.9.2.6**
+A kar vagy fegyver kontrolljának pillanatában indulhat legkésőbb olyan találati akció, amely érvényesnek tekinthető. Amint a versenybíró észleli a kontrolláló akciót, a csörte megállítását kell elrendelnie, a fegyverrel való találatnak ezalatt az időablaknak alatt kell születnie.
+
+**GEN-6.9.2.7**  
+A lefegyverzés (mely során az egyik vívó szándékos, célirányos közelharci akció eredményeképp elveszi az ellenfele fegyverét) érvényes pontszerzési mód, kivéve ha a lefegyverzett vívó azonnal (a bírói ‘Állj’ előtt) kontrolállja az ellenfél pengéjét és folytatni tudná a birkózást.  
+A lefegyverzésért a legnagyobb megítélhető pontot kell megítélni a lefegyverző vívónak, ebben az esetben nem kell találatot adni pengével a fegyvertelen vívónak.
+
+**GEN-6.9.2.8**  
+Ha a vívó az ellenfél beavatkozása nélkül elejti a fegyverét vagy elesik, a bíró ‘Állj’-t mond. Azt az (egyszerű, vagy az összetett akciót befejező mozdulattal) elért találatot, ami még azelőtt indult, hogy az ellenfél nyilvánvalóan elveszítette a fegyverét vagy elesett, érvényesnek kell minősíteni akkor is, ha csak azután érkezik be. A sportszerűség jegyében illetlenség új támadást kezdeményezni a fegyverét vesztett vagy földre került ellenféllel szemben, így ezért nem adható pont.  
+
+**GEN-6.9.2.9**
+Amennyiben csak Egyes szintű (könnyű) bírkózó akciók megengedettek a mérkőzésen a vívóknak a bírkózó akciójuk meg kell állítaniuk az első kontroll akció és azt közvetlen követő pengeakció után (annak sikerességétől függetlenül), abban az esetben is, amennyiben a versenybíró nem hívja azonnal a csörte végét. Amennyiben valamelyik fél nem állítja meg ezen estben a bírkózó akciójit, úgy a fegyelmi vétségek első csoportjába tartozó szabálytalanságot követ el és vele szemben a versenybíró a a [DIS-4.1.1]--[DIS-4.1.5], [DIS-4.1.9]--[DIS-4.1.10], [DIS-4.1.18] szakaszokban írt szakaszokban előírt büntetést alkalmazza.  
+
+### Kettes szintű (nehéz) bírkózó akciók
+<span id="GEN-6.9.3"></span>  
+
+**GEN-6.9.3.1**  
+Kettes szintű bírkózó akció egy mérkőzésen belül csak abban az esetben engedhető meg, **ha abba mindkét fél beleegyezett a mérkőzés megkezdése előtt**. Amennyiben az egyik fél nem vállalja a birkózást, annak okára nem kell magyarázatot adnia. Csapatmérkőzéseken a csapattagok egyénileg dönthetnek arról, hogy az adott ellenféllel vállalják-e a birkózást.  
+
+**GEN-6.9.3.2**  
+Kettes szintű (nehéz) bírkózó akciónak számít minden közelharci akció, amit nem fegyverrel hajtanak végre (kézzel/lábbal/fejjel/stb. végzett technikák, fogások, lefegyverzések, ütések), illetve amik fegyverrel a közvetlen találatadás helyett az ellenfél testrészeinek manipulálását szolgálják és nem esnek bele az Egyes szintű (könnyű) bírkózó akciók kategóriájába.  
+Amennyiben valamelyik ellenfél nem egyezett bele birkózásba a mérkőzésen, úgy bármilyen Kettes szintű birkózó akció kezdeményezője a fegyelmi vétségek első csoportjába tartozó szabálytalanságot követ el és vele szemben a versenybíró a a [DIS-4.1.1]--[DIS-4.1.5], [DIS-4.1.9]--[DIS-4.1.10], [DIS-4.1.18] szakaszokban írt szakaszokban előírt büntetést alkalmazza.  
+
+**GEN-6.9.3.3**  
+A bíró megállíthatja a mérkőzést huzamosabb idejű sikertelen közelharc vagy birkózás után (ezt a bíró saját hatáskörében ítéli meg).  
+
+**GEN-6.9.3.4**  
+Pontszerző Kettes szintű birkózó akciók:  
+
+**GEN-6.9.3.4.1**  
+Érvényes pontszerző kettes szintű birkózó akciókra az adott versenyen egyetlen találatra kiosztható legnagyobb pontszámot kell megítélni.
 
 **GEN-6.9.4.1**  
 Birkózófogással az ellenfél legalább egy lábának elemelése a talajról. (A dobásokat, földreviteleket NEM szabad befejezni.)  
@@ -483,16 +528,14 @@ Birkózófogással az ellenfél legalább egy lábának elemelése a talajról. 
 Fegyverrel vagy anélkül végrehajtott birkózófogások, amelyek a vívó mozgását, szabadulását megakadályozzák. A kontrolláló helyzet létrejöttét és érvényességét a versenybíró ítéli meg: amikor a versenybíró saját hatáskörében úgy ítéli, hogy a kontrollálás/dominancia követelményei teljesültek, ‘Állj!’-t mond, és 1 pontot ítél a dominálást elszenvedő vívó ellen.  
 
 **GEN-6.9.4.3**  
+Az ellenfél pástról való kiszorítása/kitolása kontrolláló pontszerző akciónak minősül. (A pástról véletlen vagy találat elkerülésére szolgáló elhagyástól külön elbírálás alá esik). Ezen akció kizárólag akkor tekinthető szabályosnak, amennyiben ez nem jár az ellenfél erőszakos fellökésével, valamint a páston kívül állók veszélyeztetésével. 
+
+**GEN-6.9.4.4**  
 Dominancia/kontrollálás ítélet nem alkalmazható olyan helyzetekre, ahol az ellenfél ki tud törni a fogásból, és érvényes akciókat tud kezdeményezni, akkor sem, ha valamilyen aktív erőfeszítés eredményeképp a dominálni szándékozó fegyver továbbra is érinti az ellenfél találati felületét. A domináló akciók érvényességét a bíró saját hatáskörében ítéli meg.  
 
 **GEN-6.9.5**  
 A földrevitel után további küzdelem nem engedélyezett. A bíró ‘Állj’-t mond, ha valamelyik vívó a földre kerül, vagy a bíró nem tudja megítélni az akciót, vagy a dominancia megszerzése huzamosabb ideig sem sikerül (ezt a bíró saját hatáskörében ítéli meg).  
 
-**GEN-6.9.6**  
-A lefegyverzés (mely során az egyik vívó szándékos, célirányos közelharci akció eredményeképp elveszi az ellenfele fegyverét) érvényes pontszerzési mód, kivéve ha a lefegyverzett vívó azonnal (a bírói ‘Állj’ előtt) kontrolállja az ellenfél pengéjét és folytatja a birkózást.  
-
-**GEN-6.9.7**  
-Ha a vívó az ellenfél beavatkozása nélkül elejti a fegyverét vagy elesik, a bíró ‘Állj’-t mond. Azt az (egyszerű, vagy az összetett akciót befejező mozdulattal) elért találatot, ami még azelőtt indult, hogy az ellenfél nyilvánvalóan elveszítette a fegyverét vagy elesett, érvényesnek kell minősíteni akkor is, ha csak azután érkezik be. A sportszerűség jegyében illetlenség új támadást kezdeményezni a fegyverét vesztett vagy földre került ellenféllel szemben, így ezért nem adható pont.  
 
 ### Nyert vagy vesztett terület  
 <span id="GEN-6.10"></span>  
