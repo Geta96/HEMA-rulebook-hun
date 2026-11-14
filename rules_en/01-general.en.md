@@ -388,7 +388,7 @@ After "Halt!", a fencer may not start a new action; only a movement begun before
 If a fencer stops before "Halt!" and is hit, the hit is valid.  
 
 **GEN-6.3.6**  
-"Halt!" must also be called if the fencing becomes dangerous, confused or contrary to the rules; if a fencer becomes disarmed (except in wrestling contexts, cf. [GEN-6.9.1]–[GEN-6.9.7]); or if a fencer leaves the piste.  
+"Halt!" must also be called if the fencing becomes dangerous, confused or contrary to the rules; if a fencer becomes disarmed (except in wrestling contexts, cf. [GEN-6.9.1]–[GEN-6.9.3.5]); or if a fencer leaves the piste.  
 
 **GEN-6.3.7**  
 Except in exceptional circumstances, the Referee may not allow a fencer to leave the piste. If a fencer leaves without permission, first-group penalties apply (cf. [DIS-4.1.1]–[DIS-4.1.5], [DIS-4.1.9]–[DIS-4.1.10], [DIS-4.1.18]).  
@@ -461,34 +461,73 @@ The Referee may also switch the positions of the fencers so that the fencer comm
 <span id="GEN-6.9"></span>  
 
 **GEN-6.9.1**  
-Gripping and wrestling (grabbing/control/throw/takedown) are permitted within a bout only if both parties consent before the bout starts. If one party does not accept wrestling, no explanation is required. In team matches, each team member decides individually whether they accept wrestling with the given opponent.  
+Gripping and wrestling (grabbing/control/throw/takedown) are divided into two categories: Level One and Level Two wrestling actions.
 
-**GEN-6.9.2**  
-A wrestling action includes any close-quarter action not executed with the weapon (hand/foot/head techniques, holds, disarms, strikes), as well as weapon actions which, instead of direct hitting, aim to manipulate the opponent's body parts. If either opponent did not consent to wrestling, initiating any wrestling action is a first-group offence (cf. [DIS-4.1.1]–[DIS-4.1.5], [DIS-4.1.9]–[DIS-4.1.10], [DIS-4.1.18]).  
+### Level One (light) wrestling actions
+<span id="GEN-6.9.2"></span>
 
-**GEN-6.9.3**  
-The Referee may stop the bout after prolonged unsuccessful close quarters or wrestling (at the Referee's discretion). Grabbing an opponent's momentarily neutralised blade is permitted. A point may be awarded only if the blade grab is brief and is immediately followed by a weapon hit. If no hit results from the grab, the Referee stops without awarding a point. If the initiating party does not neutralise the opponent's weapon first and receives a hit, the point is awarded against the initiator.  
+**GEN-6.9.2.1**
+Level One actions are permitted in all bouts without the fencers' separate consent.
 
-**GEN-6.9.4**  
-Scoring wrestling actions:  
+**GEN-6.9.2.2**
+Actions intended to establish a grip or control are classified as Level One actions. A fencer may perform these actions using only their arm.
 
-**GEN-6.9.4.1**  
-With a wrestling hold, lifting at least one of the opponent's feet off the ground. (Throws/takedowns must NOT be completed.)  
+**GEN-6.9.2.3**
+Within Level One wrestling actions, only the opponent's arm may be manipulated. The opponent's head, body, and legs may not be manipulated in this category.
 
-**GEN-6.9.4.2**  
-Wrestling holds with or without the weapon that prevent the opponent's movement or escape. The Referee judges whether the control position exists and is valid; once the Referee judges the control/dominance requirements are met, they call "Halt!" and award 1 point against the dominated fencer.  
+**GEN-6.9.2.4**
+Twisting, jerking, or yanking the opponent's hand is prohibited. Only a single controlled push or pull, or impeding the arm by pinning it, is permitted.
 
-**GEN-6.9.4.3**  
-A dominance/control judgement is not applicable in positions where the opponent can break out and initiate valid actions, even if, by active effort, the dominating weapon continues to touch the opponent's target. The Referee judges validity at their discretion.  
+**GEN-6.9.2.5**
+Grabbing the opponent's momentarily neutralised blade is permitted. A point may be awarded only if the blade grab is brief and is immediately followed by a hit with a weapon. If no hit is scored as a result of the blade grab, the Referee stops the bout without awarding a point. If the fencer initiating the grappling action has not first neutralised the opponent's weapon and is hit, the opponent is awarded the point.
 
-**GEN-6.9.5**  
-After a takedown, further fighting is not permitted. The Referee calls "Halt!" if either fencer goes to the ground, or if the Referee cannot judge the action, or if dominance cannot be obtained over a prolonged period (Referee's discretion).  
+**GEN-6.9.2.6**
+Level One wrestling actions cannot score points; they may only facilitate the fencer's own hit or prevent a hit from the opponent. (The only exception from this is disarming actions.)
 
-**GEN-6.9.6**  
-A disarm (where one fencer, by intentional close-quarter action, takes the opponent's weapon) is a valid scoring method, except if the disarmed fencer immediately (before "Halt!") controls the opponent's blade and continues wrestling.  
+**GEN-6.9.2.7**
+A valid hitting action must be initiated no later than the moment the arm or weapon is controlled. As soon as the Referee observes the controlling action, they must call "Halt!"; the weapon hit must land within this time window.
 
-**GEN-6.9.7**  
-If a fencer drops their weapon or falls without opponent intervention, the Referee calls "Halt!". A hit achieved by a movement that began before the opponent clearly lost their weapon or fell must be considered valid even if it lands afterwards. By sportsmanship, it is improper to initiate a new attack against an opponent who has lost their weapon or fallen; therefore no point is awarded for such a new attack.  
+**GEN-6.9.2.8**
+A disarm (where one fencer takes the opponent's weapon as the result of an intentional, directed close-quarter action) is a valid scoring method, except if the disarmed fencer immediately (before the Referee calls "Halt!") controls the opponent's blade and could continue wrestling. The fencer who disarms the opponent is awarded the highest score available for a single hit at that competition; in this case, the disarmed fencer does not need to score a blade hit.
+
+**GEN-6.9.2.9**
+If a fencer drops their weapon or falls without the opponent's intervention, the Referee calls "Halt!". A hit made with an action that began before the opponent clearly lost their weapon or fell must be considered valid, even if it lands afterwards. In the spirit of sportsmanship, it is improper to initiate a new attack against an opponent who has lost their weapon or fallen, so no point may be awarded for such an attack.
+
+**GEN-6.9.2.10**
+When only Level One (light) wrestling actions are permitted in a bout, the fencers must stop their wrestling action after the first control action and the blade action that immediately follows it, regardless of whether that blade action succeeds. They must do so even if the Referee does not immediately call "Halt!". If either fencer fails to stop wrestling in this situation, they commit a first-group offence and the Referee applies the penalties prescribed in [DIS-4.1.1]–[DIS-4.1.5], [DIS-4.1.9]–[DIS-4.1.10], and [DIS-4.1.18].
+
+### Level Two (heavy) wrestling actions
+<span id="GEN-6.9.3"></span>
+
+**GEN-6.9.3.1**
+Level Two wrestling actions are permitted in a bout only if both fencers consent before the bout starts. If one fencer does not agree to wrestle, they do not have to explain why. In team matches, each team member may decide individually whether to wrestle with the given opponent.
+
+**GEN-6.9.3.2**
+A Level Two (heavy) wrestling action is any close-quarter action not performed with the weapon (techniques performed with the hands, feet, head, etc.; holds; disarms; strikes), or a weapon action intended to manipulate the opponent's body parts instead of scoring a direct hit, if it does not fall within the Level One (light) wrestling actions category. If either opponent did not consent to wrestling in the bout, initiating any Level Two wrestling action is a first-group offence. The Referee applies the penalties prescribed in [DIS-4.1.1]–[DIS-4.1.5], [DIS-4.1.9]–[DIS-4.1.10], and [DIS-4.1.18].
+
+**GEN-6.9.3.3**
+The Referee may stop the bout after prolonged unsuccessful close quarters or wrestling (at the Referee's discretion).
+
+**GEN-6.9.3.4**
+Scoring Level Two wrestling actions:
+
+**GEN-6.9.3.4.1**
+For a valid scoring Level Two wrestling action, the highest score that may be awarded for a single hit at that competition must be awarded.
+
+**GEN-6.9.3.4.2**
+Using a wrestling hold to lift at least one of the opponent's feet off the ground. (Throws and takedowns must NOT be completed.)
+
+**GEN-6.9.3.4.3**
+Wrestling holds, with or without the weapon, that prevent the opponent from moving or escaping. The Referee determines whether a control position has been established and is valid. When, at the Referee's discretion, the requirements for control/dominance have been met, they call "Halt!" and award 1 point against the dominated fencer.
+
+**GEN-6.9.3.4.4**
+Forcing or pushing the opponent off the piste is considered a scoring control action. (This is judged separately from accidentally leaving the piste or leaving it to avoid a hit.) This action is permitted only if it does not involve violently knocking the opponent down or endanger anyone outside the piste.
+
+**GEN-6.9.3.4.5**
+A dominance/control judgement does not apply in situations where the opponent can break free from the hold and initiate valid actions, even if, through active effort, the would-be dominating fencer's weapon continues to touch the opponent's target. The Referee determines the validity of the dominating actions at their discretion.
+
+**GEN-6.9.3.5**
+Further fighting is not permitted after a takedown. The Referee calls "Halt!" if either fencer goes to the ground, if the Referee cannot judge the action, or if dominance is not established for a prolonged period (at the Referee's discretion).
 
 ### Ground gained or lost  
 <span id="GEN-6.10"></span>  
