@@ -20,7 +20,7 @@ A fencer may hold a one-handed weapon by its grip or pommel, as they prefer.
 Two-handed weapons must generally be held with both hands. If used with one hand, the hand must hold the grip directly below the crossguard or basket. With a two-handed weapon, scoring a hit while holding only the pommel/end of the grip is prohibited. An action of this nature is a first-group offence (cf. [DIS-4.1.1]–[DIS-4.1.5], [DIS-4.1.9]–[DIS-4.1.10], [DIS-4.1.18]), and any hit scored in this manner is annulled (cf. [DIS-4.1.15]).
 
 **MIX-1.1.5**
-To change their grip, a fencer may release the weapon with their primary hand and hold it only with their rear hand, but fencing in this grip is prohibited.
+To change their grip, a fencer may release the weapon with their primary hand and hold it only with their rear hand, but fencing in this grip is prohibited. Doing so is a first-group offence (cf. [DIS-4.1.1]–[DIS-4.1.5], [DIS-4.1.9]–[DIS-4.1.10], [DIS-4.1.18]), and any hit scored in this manner is annulled (cf. [DIS-4.1.15]).
 
 **MIX-1.1.6**
 A fencer may use the following weapon combinations at the same time:
@@ -79,7 +79,7 @@ In borderline cases, the Head Referee may decide whether to allow the replacemen
 With one-handed weapons, a valid hit may be scored with the point, edge, spine, or flat of the blade.
 
 **MIX-1.3.2**
-With two-handed weapons, a valid hit may be scored with the point, edge, spine, or flat of the blade, and with the pommel only. The pommel means only the purpose-made pommel at the end of the grip. If the weapon's construction does not include a pommel, a hit may be scored in the same way with the very end of the grip.
+With two-handed weapons, a valid hit may be scored with the point, edge, spine, or flat of the blade, and with the pommel only. The pommel means only the purpose-made pommel at the end of the grip; if the weapon's construction does not include a pommel, a hit may be scored in the same way with the very end of the grip. Strikes with the pommel or the end of the grip are only valid on the front mesh of the opponent's mask, provided they are delivered with controlled force or clearly indicated (cf. [LS-1.1.5], [LS-AB-1.1.6]).
 
 **MIX-1.3.3**
 Contact with a weapon's fittings (crossguard, basket, knucklebow, parrying ring, or cup guard) is not a valid hit and scores no points. Such contact does not stop the bout; the action continues.
@@ -130,6 +130,8 @@ The following are the rules for equipment (protective gear and weapons). Ultimat
 
 ### Hand and body protection
 <span id="MIX-2.1"></span>
+
+*(Note: Where the weapon's hand guard meets the coverage requirements specified below, MIX-2.1.3 and MIX-2.1.4 override the heavy-glove requirement in [GEN-5.2.2.1].)*
 
 **MIX-2.1.1**
 During a bout, fencers must wear protective equipment over their entire body, including their hands, that provides protection against the heaviest weapon used in the competition.
@@ -218,7 +220,7 @@ No points may be scored with a shield, and striking with a shield is prohibited.
 **Pushing with a shield:** A sword or the opponent's hand may be pushed aside with a shield, but striking them with it is prohibited (cf. MIX-2.3.1). Pushing the opponent's body with a shield is not permitted; doing so is a first-group offence (cf. [GEN-6.5.2], [DIS-4.1.1]–[DIS-4.1.5], [DIS-4.1.9]–[DIS-4.1.10], [DIS-4.1.18]), and any hit scored by the fencer at fault is annulled (cf. [DIS-4.1.15]).
 
 **MIX-2.3.4**
-Pushing the opponent's hand aside with a sword is judged in the same way as grabbing it (see MIX-2.4.6 and MIX-2.4.7): the Head Referee stops the bout, and only a hit initiated almost immediately after the hand is pushed aside is considered valid.
+Pushing the opponent's hand aside with a shield is judged in the same way as grabbing it (see MIX-2.4.6 and MIX-2.4.7): the Head Referee stops the bout, and only a hit initiated almost immediately after the hand is pushed aside is considered valid.
 
 **MIX-2.3.5**
 **Two parrying weapons (for example, two shields, a shield and a cloak, or two cloaks):** Using two parrying weapons at the same time is permitted. Since parrying weapons (shields, cloaks) cannot score points, a fencer using two parrying weapons may score only by forcing their opponent, without violence, to cross the piste boundary completely (both feet outside the piste).
@@ -293,8 +295,8 @@ This table supplements the general table of offences and penalties in [DIS-4.1.1
     </tr>
     <tr>
       <td>MIX-1.1</td>
-      <td>Scoring a hit with a two-handed weapon while holding only the pommel / end of the grip *</td>
-      <td>MIX-1.1.4</td>
+      <td>Fencing with a two-handed weapon in a rear-hand-only grip, or scoring a hit while holding only the pommel / end of the grip *</td>
+      <td>MIX-1.1.4, MIX-1.1.5</td>
       <td rowspan="7" bgcolor="#E3D059">YELLOW</td>
       <td rowspan="7" bgcolor="#E36159">RED</td>
       <td rowspan="7" bgcolor="#E36159">RED</td>

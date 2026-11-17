@@ -20,7 +20,7 @@ Az egykezes fegyvereket a vívó tetszése szerint foghatja a markolatuknál vag
 A kétkezes fegyvereket alapvetően két kézzel kell fogni. Ha egy kézzel használják, akkor a markolaton közvetlenül a keresztvas vagy a kosár alatt kell fogni. Kétkezes fegyvernél tilos kizárólag a markolatgombnál/markolat legvégén fogva találatot elérni. Az ilyen jellegű akció az 1. csoportos vétségek kategóriájába tartozik (vö. [DIS-4.1.1]–[DIS-4.1.5], [DIS-4.1.9]–[DIS-4.1.10], [DIS-4.1.18]), és az így elért találatot érvényteleníteni kell (vö. [DIS-4.1.15]).
 
 **MIX-1.1.5**  
-A markolaton való fogásváltás céljából a vívó elengedheti a fegyvert a fő kezével, és tarthatja csak a hátsó kezével, de ilyen fogásmódban vívni tilos.  
+A markolaton való fogásváltás céljából a vívó elengedheti a fegyvert a fő kezével, és tarthatja csak a hátsó kezével, de ilyen fogásmódban vívni tilos. Ennek megszegése 1. csoportos vétség (vö. [DIS-4.1.1]–[DIS-4.1.5], [DIS-4.1.9]–[DIS-4.1.10], [DIS-4.1.18]), és az így elért találatot érvényteleníteni kell (vö. [DIS-4.1.15]).
 
 **MIX-1.1.6**  
 Egy vívó egyidejűleg a következő fegyverkombinációkat használhatja:  
@@ -79,7 +79,7 @@ Határesetekben a vezetőbíró a szabályrendszer logikája alapján döntheti 
 Az egykezes fegyverekkel a penge hegyével, élével, gerincével és lapjával is lehet érvényes találatot elérni.  
 
 **MIX-1.3.2**  
-A kétkezes fegyverekkel a penge hegyével, élével, gerincével, lapjával, valamint kizárólag a markolatgombbal (pommel) lehet érvényes találatot elérni. A markolatgomb alatt kizárólag a markolat végén elhelyezkedő, erre a célra szolgáló markolatgombot kell érteni, amennyiben a fegyverkialaikítása miatt nem rendelkezik markolatgombbal, a markolat legvégével hasonló módon lehet találatot adni.
+A kétkezes fegyverekkel a penge hegyével, élével, gerincével, lapjával, valamint kizárólag a markolatgombbal (pommel) lehet érvényes találatot elérni. A markolatgomb alatt kizárólag a markolat végén elhelyezkedő, erre a célra szolgáló markolatgombot kell érteni; amennyiben a fegyver kialakítása miatt nem rendelkezik markolatgombbal, a markolat legvégével hasonló módon lehet találatot adni. A markolatgombbal vagy a markolat legvégével végrehajtott ütés kizárólag az ellenfél maszkjának rostélyán érvényes, amennyiben kontrollált erővel érkezik, vagy a találat jól láthatóan bejelzésre kerül (vö. [LS-1.1.5], [LS-AB-1.1.6]).
 
 **MIX-1.3.3**  
 A fegyver szerelékét (keresztvas, kosár, kengyel/hárítóív, hárítógyűrű, csészevédő) elért érintés nem számít érvényes találatnak, és nem ér pontot. Az ilyen érintés a csörtét nem állítja meg és az akció folytatódik.
@@ -130,6 +130,8 @@ A felszerelések (védőfelszerelések és fegyverek) szabályai következnek az
 
 ### Kéz- és testvédelem  
 <span id="MIX-2.1"></span>  
+
+*(Megjegyzés: Amennyiben a fegyver kézvédelme megfelel az alábbiakban meghatározott takarási követelményeknek, a MIX-2.1.3 és a MIX-2.1.4 pontok felülírják a [GEN-5.2.2.1] pontban szereplő nehézkesztyű-követelményt.)*
 
 **MIX-2.1.1**  
 A vívóknak a teljes testükön a versenyen részt vevő legnehezebb fegyver ellen védelmet nyújtó védőfelszerelést kell viselniük a mérkőzés alatt.  Ebbe a kézfejeket is beleértve.
@@ -218,7 +220,7 @@ A pajzzsal nem lehet pontot szerezni, és a pajzzsal történő ütés tilos. A 
 **Pajzzsal végzett tolás:** A pajzzsal a kard vagy az ellenfél keze eltolható, az ezekkel történő ütés azonban tilos (vö. MIX-2.3.1). A pajzzsal az ellenfél testének tolása nem megengedett; ennek megszegése 1. csoportos vétség (vö. [GEN-6.5.2], [DIS-4.1.1]–[DIS-4.1.5], [DIS-4.1.9]–[DIS-4.1.10], [DIS-4.1.18]), és a vétkes vívó találatát érvényteleníteni kell (vö. [DIS-4.1.15]).
 
 **MIX-2.3.4**  
-Az ellenfél kezének karddal történő eltolása a megfogással azonos elbírálás alá esik (lásd MIX-2.4.6 és MIX-2.4.7): a vezetőbíró megállítja a csörtét, és kizárólag a kéz eltolása után szinte azonnal induló találat tekinthető érvényesnek.  
+Az ellenfél kezének pajzzsal történő eltolása a megfogással azonos elbírálás alá esik (lásd MIX-2.4.6 és MIX-2.4.7): a vezetőbíró megállítja a csörtét, és kizárólag a kéz eltolása után szinte azonnal induló találat tekinthető érvényesnek.  
 
 **MIX-2.3.5**  
 **Két hárítófegyver (pl. két pajzs, pajzs és köpeny, vagy két köpeny):** Két hárítófegyver egyidejű használata engedélyezett. Mivel hárítófegyverrel (pajzs, köpeny) pontot szerezni nem lehet, két hárítófegyver esetén pont kizárólag akkor érhető el, ha az ellenfelet a vívó erőszakmentesen a pást határának teljes átlépésére kényszeríti (mindkét lábbal a páston kívülre).
@@ -293,8 +295,8 @@ Ez a táblázat a [DIS-4.1.18] pontban szereplő általános vétségi és bünt
     </tr>
     <tr>
       <td>MIX-1.1</td>
-      <td>Találat elérése kétkezes fegyverrel kizárólag a markolatgombnál/markolat legvégén fogva *</td>
-      <td>MIX-1.1.4</td>
+      <td>Kétkezes fegyverrel történő vívás csak a hátsó kézzel fogva, vagy találat elérése kizárólag a markolatgombnál/markolat legvégén fogva *</td>
+      <td>MIX-1.1.4, MIX-1.1.5</td>
       <td rowspan="7" bgcolor="#E3D059">SÁRGA</td>
       <td rowspan="7" bgcolor="#E36159">PIROS</td>
       <td rowspan="7" bgcolor="#E36159">PIROS</td>
