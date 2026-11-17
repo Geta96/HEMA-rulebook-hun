@@ -262,3 +262,100 @@ A birkózás nem megengedett (Kettes szintű birkózó akció; a [GEN-6.3.1]-tő
 **MIX-2.4.7**  
 A bíró karfogás esetében azonnal megállítja a csörtét. Az „Állj” parancs kiadása előtti (a bíró észlelése és a parancs kiadása előtti) és legkésőbb a kar vagy fegyver kontrolljának pillanatában induló találati akció tekinthető érvényesnek.
 
+## Vétségek és büntetések kiegészítő táblázata
+<span id="MIX-3"></span>
+
+Ez a táblázat a [DIS-4.1.18] pontban szereplő általános vétségi és büntetési táblázatot egészíti ki a Vegyes Fegyvernemre jellemző vétségekkel. A lapok halmozódására, a találatok érvénytelenítésére (`*`) és a fegyelmi csoportokra a [DIS-4.1] általános szabályai irányadók.
+
+<table border="1" width="100%">
+  <colgroup>
+    <col width="6%">
+    <col width="54%">
+    <col width="10%">
+    <col width="10%">
+    <col width="10%">
+    <col width="10%">
+  </colgroup>
+  <thead>
+    <tr>
+      <td></td>
+      <td>VÉTSÉG (VEGYES FEGYVERNEM KIEGÉSZÍTÉS)</td>
+      <td>CIKKEZET</td>
+      <td>1. vétség</td>
+      <td>2. vétség</td>
+      <td>3. és további</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td colspan="5"><h3>1. CSOPORT</h3></td>
+    </tr>
+    <tr>
+      <td>MIX-1.1</td>
+      <td>Találat elérése kétkezes fegyverrel kizárólag a markolatgombnál/markolat legvégén fogva *</td>
+      <td>MIX-1.1.4</td>
+      <td rowspan="5" bgcolor="#E3D059">SÁRGA</td>
+      <td rowspan="5" bgcolor="#E36159">PIROS</td>
+      <td rowspan="5" bgcolor="#E36159">PIROS</td>
+    </tr>
+    <tr>
+      <td>MIX-1.2</td>
+      <td>Fegyver véletlen elejtése *</td>
+      <td>MIX-1.1.7</td>
+    </tr>
+    <tr>
+      <td>MIX-1.3</td>
+      <td>Rövid pengéjű egykezes fegyverrel (50 cm vagy rövidebb) történő vágás vagy ütés szándékos vagy veszélyes végrehajtása *</td>
+      <td>MIX-1.3.7.1</td>
+    </tr>
+    <tr>
+      <td>MIX-1.4</td>
+      <td>Az ellenfél testének tolása pajzzsal *</td>
+      <td>MIX-2.3.3</td>
+    </tr>
+    <tr>
+      <td>MIX-1.5</td>
+      <td>Kettes szintű birkózó akció kezdeményezése (a birkózás nem engedélyezett Vegyes Fegyvernemben) *</td>
+      <td>MIX-2.4.6</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="5"><h3>2. CSOPORT</h3></td>
+    </tr>
+    <tr>
+      <td>MIX-2.1</td>
+      <td>Fegyver küzdelem közbeni szándékos elejtése *</td>
+      <td>MIX-1.1.7.1</td>
+      <td rowspan="4" bgcolor="#E36159">PIROS</td>
+      <td rowspan="4" bgcolor="#E36159">PIROS</td>
+      <td rowspan="4" bgcolor="#E36159">PIROS</td>
+    </tr>
+    <tr>
+      <td>MIX-2.2</td>
+      <td>Fegyver eldobása (a köpeny kivételével) *</td>
+      <td>MIX-1.3.6</td>
+    </tr>
+    <tr>
+      <td>MIX-2.3</td>
+      <td>Rövid pengéjű egykezes fegyverrel (50 cm vagy rövidebb) történő vágás vagy ütés veszélyes, erőszakos vagy rosszindulatú végrehajtása *</td>
+      <td>MIX-1.3.7.1</td>
+    </tr>
+    <tr>
+      <td>MIX-2.4</td>
+      <td>Pajzzsal való ütés *</td>
+      <td>MIX-2.3.2</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="5"><h3>4. CSOPORT</h3></td>
+    </tr>
+    <tr>
+      <td>MIX-4.1</td>
+      <td>Fegyver eldobása (a köpeny kivételével) szándékos brutalitás vagy veszélyeztetés esetén *</td>
+      <td>MIX-1.1.7.1, MIX-1.3.6</td>
+      <td colspan="3" bgcolor="#787878">FEKETE</td>
+    </tr>
+  </tbody>
+</table>
+

@@ -261,3 +261,100 @@ Wrestling is not permitted (Level 2 wrestling action; unlike [GEN-6.3.1], fencer
 
 **MIX-2.4.7**
 In the case of an arm grab, the Referee stops the bout immediately. A valid hitting action must begin before the Referee calls "Halt!" (after the Referee notices the action but before issuing the command), and no later than the moment the arm or weapon is controlled.
+
+## Offences and penalties extension
+<span id="MIX-3"></span>
+
+This table supplements the general table of offences and penalties in [DIS-4.1.18] with offences specific to the Mixed Weapons category. All general rules on card accumulation, hit annulment (`*`), and disciplinary groups in [DIS-4.1] apply.
+
+<table border="1" width="100%">
+  <colgroup>
+    <col width="6%">
+    <col width="54%">
+    <col width="10%">
+    <col width="10%">
+    <col width="10%">
+    <col width="10%">
+  </colgroup>
+  <thead>
+    <tr>
+      <td></td>
+      <td>OFFENCE (MIXED WEAPONS EXTENSION)</td>
+      <td>ART.</td>
+      <td>1st offence</td>
+      <td>2nd offence</td>
+      <td>3rd offence and subs.</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td colspan="5"><h3>1ST GROUP</h3></td>
+    </tr>
+    <tr>
+      <td>MIX-1.1</td>
+      <td>Scoring a hit with a two-handed weapon while holding only the pommel / end of the grip *</td>
+      <td>MIX-1.1.4</td>
+      <td rowspan="5" bgcolor="#E3D059">YELLOW</td>
+      <td rowspan="5" bgcolor="#E36159">RED</td>
+      <td rowspan="5" bgcolor="#E36159">RED</td>
+    </tr>
+    <tr>
+      <td>MIX-1.2</td>
+      <td>Accidentally dropping a weapon (excluding putting down a secondary weapon under MIX-1.2.4)</td>
+      <td>MIX-1.1.7</td>
+    </tr>
+    <tr>
+      <td>MIX-1.3</td>
+      <td>Deliberate or dangerous strike or cut with a short-bladed one-handed weapon (50 cm or less) *</td>
+      <td>MIX-1.3.7.1</td>
+    </tr>
+    <tr>
+      <td>MIX-1.4</td>
+      <td>Pushing the opponent's body with a shield *</td>
+      <td>MIX-2.3.3</td>
+    </tr>
+    <tr>
+      <td>MIX-1.5</td>
+      <td>Initiating a Level 2 wrestling action (wrestling is not permitted in Mixed Weapons) *</td>
+      <td>MIX-2.4.6</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="5"><h3>2ND GROUP</h3></td>
+    </tr>
+    <tr>
+      <td>MIX-2.1</td>
+      <td>Deliberately dropping a weapon during the fencing phrase *</td>
+      <td>MIX-1.1.7.1</td>
+      <td rowspan="4" bgcolor="#E36159">RED</td>
+      <td rowspan="4" bgcolor="#E36159">RED</td>
+      <td rowspan="4" bgcolor="#E36159">RED</td>
+    </tr>
+    <tr>
+      <td>MIX-2.2</td>
+      <td>Throwing a weapon (except a cloak) *</td>
+      <td>MIX-1.3.6</td>
+    </tr>
+    <tr>
+      <td>MIX-2.3</td>
+      <td>Dangerous, violent, or vindictive strike or cut with a short-bladed one-handed weapon (50 cm or less) *</td>
+      <td>MIX-1.3.7.1</td>
+    </tr>
+    <tr>
+      <td>MIX-2.4</td>
+      <td>Striking with a shield *</td>
+      <td>MIX-2.3.2</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="5"><h3>4TH GROUP</h3></td>
+    </tr>
+    <tr>
+      <td>MIX-4.1</td>
+      <td>Throwing a weapon (except a cloak) with deliberate brutality or endangerment *</td>
+      <td>MIX-1.1.7.1, MIX-1.3.6</td>
+      <td colspan="3" bgcolor="#787878">BLACK</td>
+    </tr>
+  </tbody>
+</table>
