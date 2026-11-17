@@ -337,7 +337,7 @@ The penalties are as follows:
 Warning, expressed by the Referee showing a **YELLOW CARD** and indicating the fencer at fault. The fencer at fault acknowledges that any further offence on their part will entail a penalty hit.  
 
 **DIS-4.1.5.2**  
-Penalty hit, expressed by the Referee showing a **RED CARD** and indicating the fencer at fault. In that case, one hit is added to the opponent's score, which — if it is the final hit — may lead to loss of the bout. Furthermore, every RED CARD can be followed only by another RED CARD or a BLACK CARD, depending on the nature of the subsequent offence (cf. [DIS-4.1.18]).  
+Penalty hit, expressed by the Referee showing a **RED CARD** and indicating the fencer at fault. In that case, the highest score available for a single hit at that competition is added to the opponent's score, which — if it reaches or exceeds the winning score — may lead to loss of the bout. Furthermore, every RED CARD can be followed only by another RED CARD or a BLACK CARD, depending on the nature of the subsequent offence (cf. [DIS-4.1.18]).  
 
 **DIS-4.1.5.3**  
 Exclusion from the event and suspension from the remainder of the tournament, expressed by the Referee showing a **BLACK CARD** and indicating the fencer at fault.  

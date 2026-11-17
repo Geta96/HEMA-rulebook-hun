@@ -43,7 +43,7 @@ Deliberately dropping or throwing a weapon (except for Cloaks) during the fencin
 When registering for the competition, each fencer must declare their primary weapon style (primary weapon), which may not be changed during the competition. This may be a one- or two-handed weapon. Even weapons traditionally used as secondary weapons may be declared as a primary weapon (for example, a buckler, parrying dagger, or cloak).
 
 **MIX-1.2.2**
-Fencers must use their primary weapon in every bout of the competition.
+Fencers must use their primary weapon in every bout of the competition, except in the case specified in [MIX-1.2.6] (where a damaged primary weapon cannot be replaced and the fencer continues with a secondary weapon capable of scoring points).
 
 **MIX-1.2.3**
 In addition to their primary weapon, a fencer may have secondary weapons, which may be one- or two-handed. A fencer may change their secondary weapon between bouts, but not during the same bout.
@@ -187,7 +187,7 @@ Modified weapons (for example, with parts sawn off or weights glued or taped on)
 - **Maximum crossguard length:** 32 cm
 - **Maximum diameter of parrying ring / complex basket / cup guard / sabre basket:** 16 cm
 - **Point of balance (PoB):** 5–15 cm
-- **Weight:** 700–1450 g
+- **Weight:** 700–1450 g (for safety in asymmetrical matchups, this overrides the higher longsword mass limits in [GEN-5.2.5.12]–[GEN-5.2.5.13])
 
 **MIX-2.2.6**
 **Blade flexibility:** (Measured by applying pressure from the crossguard until the blade bends significantly.)
@@ -198,7 +198,7 @@ The maximum permitted bending force depends on blade length and the typical char
 - **One-handed sword, long blade (over 80 cm):** Max. 11 kg (for example, sabres, rapiers)
 
 Blades whose length is exactly at a category boundary must be classified in the shorter category.
-(For example, a 80 cm blade falls into the short category, to which the 15 kg bending-force limit applies.)
+(For example, a 80 cm blade falls into the **medium** category, to which the 15 kg bending-force limit applies.)
 
 ### Parrying weapon specifications
 <span id="MIX-2.3"></span>
@@ -222,7 +222,7 @@ Pushing the opponent's hand aside with a sword is judged in the same way as grab
 
 **MIX-2.3.5**
 **Two parrying weapons (for example, two shields, a shield and a cloak, or two cloaks):** Using two parrying weapons at the same time is permitted. Since parrying weapons (shields, cloaks) cannot score points, a fencer using two parrying weapons may score only by forcing their opponent, without violence, to cross the piste boundary completely (both feet outside the piste).
-Pushing, shoving, or knocking the opponent off the piste using body contact is prohibited. Contactless displacement off the piste by occupation of space is available to every fencer regardless of weapon category, so pushing an opponent with two parrying weapons does not give that fencer an advantage over the other. A fencer’s first step off the piste results in a warning; subsequent instances award a point to the opponent.
+Pushing, shoving, or knocking the opponent off the piste using body contact is prohibited. Contactless displacement off the piste by occupation of space is available to every fencer regardless of weapon category, so pushing an opponent with two parrying weapons does not give that fencer an advantage over the other. A fencer’s first step off the piste results in a warning; subsequent instances award the highest score available for a single hit to the opponent (cf. [GEN-6.11.5]).
 
 **MIX-2.3.6**
 If one of the two parrying weapons can be attached to the forearm (for example, a shield strapped to the forearm), the fencer may also hold a one-handed weapon. For manageability, only a short or short-bladed one-handed weapon (blade length of 80 cm or less) may be used in this case.
@@ -241,13 +241,13 @@ A cloak may be thrown to distract and impede the opponent.
 When using an unarmed hand, a Longsword Level Glove must be worn on that hand, even if a more mobile glove (for example, a Sabre Level Glove) is permitted on the weapon hand because of the weapon's fittings.
 
 **MIX-2.4.2**
-It is prohibited to grab, strike, or parry a moving (cutting or thrusting) sword. A Priority target may not be covered with the unarmed hand.
+It is prohibited to grab, strike, or parry a moving (cutting or thrusting) sword. Valid target areas (whether Priority or Simple targets) may not be covered with the unarmed hand (cf. [GEN-6.8.2]).
 
 **MIX-2.4.3**
-If a fencer covers a Priority target with their unarmed hand, 2 points must be awarded against them. If they cover a Simple target, 1 point must be awarded against them.
+Covering or substituting a valid target area with the unarmed hand is a first-group offence (cf. [GEN-6.8.2], [DIS-4.1.1]–[DIS-4.1.5], [DIS-4.1.9]–[DIS-4.1.10], [DIS-4.1.18] / 1.3), and any hit scored by the fencer at fault in connection with it is annulled (cf. [DIS-4.1.15]). In addition, if a properly delivered attack is prevented from reaching the covered target, the opponent is awarded the point value of the covered target zone (2 points for a Priority target; 1 point for a Simple target).
 
 **MIX-2.4.4**
-If a fencer attempts to parry by putting their hand into a blade attack but does not cover a target zone, 1 point must be awarded against them.
+Grabbing, striking, or parrying a moving blade with the unarmed hand (without covering a target zone) is a first-group offence (cf. [DIS-4.1.1]–[DIS-4.1.5], [DIS-4.1.9]–[DIS-4.1.10], [DIS-4.1.18]), and any hit scored by the fencer at fault in connection with it is annulled (cf. [DIS-4.1.15]).
 
 **MIX-2.4.5**
 A fencer may grip a stationary, bound (non-moving) weapon at the following locations:
@@ -295,13 +295,13 @@ This table supplements the general table of offences and penalties in [DIS-4.1.1
       <td>MIX-1.1</td>
       <td>Scoring a hit with a two-handed weapon while holding only the pommel / end of the grip *</td>
       <td>MIX-1.1.4</td>
-      <td rowspan="5" bgcolor="#E3D059">YELLOW</td>
-      <td rowspan="5" bgcolor="#E36159">RED</td>
-      <td rowspan="5" bgcolor="#E36159">RED</td>
+      <td rowspan="7" bgcolor="#E3D059">YELLOW</td>
+      <td rowspan="7" bgcolor="#E36159">RED</td>
+      <td rowspan="7" bgcolor="#E36159">RED</td>
     </tr>
     <tr>
       <td>MIX-1.2</td>
-      <td>Accidentally dropping a weapon *</td>
+      <td>Accidentally dropping a weapon (excluding putting down a secondary weapon under MIX-1.2.4)</td>
       <td>MIX-1.1.7</td>
     </tr>
     <tr>
@@ -318,6 +318,16 @@ This table supplements the general table of offences and penalties in [DIS-4.1.1
       <td>MIX-1.5</td>
       <td>Initiating a Level 2 wrestling action (wrestling is not permitted in Mixed Weapons) *</td>
       <td>MIX-2.4.6</td>
+    </tr>
+    <tr>
+      <td>MIX-1.6</td>
+      <td>Covering or substituting a valid target area with the unarmed hand *</td>
+      <td>MIX-2.4.3</td>
+    </tr>
+    <tr>
+      <td>MIX-1.7</td>
+      <td>Grabbing, striking, or parrying a moving blade with the unarmed hand *</td>
+      <td>MIX-2.4.4</td>
     </tr>
     <tr>
       <td></td>

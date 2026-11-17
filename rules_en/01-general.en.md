@@ -562,7 +562,7 @@ If a fencer steps completely beyond a boundary (both feet) without having scored
 On the first exit, the fencer receives a warning.  
 
 **GEN-6.11.5.2**  
-On any further exit in the same bout, the exiting competitor is penalised by a hit against them (the opponent receives the highest awardable point), even if the competitor was not actually hit.  
+On any further exit in the same bout, the exiting competitor is penalised by a hit against them (the opponent receives the highest score available for a single hit), even if the competitor was not actually hit.  
 
 **GEN-6.11.6**  
 No penalty applies where a fencer leaves the boundary not intentionally but due to unexpected events or accidents (e.g. being pushed).  
@@ -604,7 +604,7 @@ One fencer reaches the defined number of hits (or in Afterblow: the defined scor
         - if the score is tied, the scores must be reset to 6–6 and a decisive hit must be scored before the time limit ends. Equivalent simultaneous hits are not taken into account (and the fencers remain where they were on the piste);
         - the winner's score must be recorded as 7 on the score sheet, even if the final hit's point value would exceed that.
 
-**GEN-6.12.4.1.4**  
+**GEN-6.12.4.4**  
 The score sheet records the final score (V–n, where n = the loser's hits/points).  
 
 **GEN-6.12.4.2**  
