@@ -301,7 +301,7 @@ This table supplements the general table of offences and penalties in [DIS-4.1.1
     </tr>
     <tr>
       <td>MIX-1.2</td>
-      <td>Accidentally dropping a weapon (excluding putting down a secondary weapon under MIX-1.2.4)</td>
+      <td>Accidentally dropping a weapon *</td>
       <td>MIX-1.1.7</td>
     </tr>
     <tr>
