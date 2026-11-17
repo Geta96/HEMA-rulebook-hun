@@ -17,7 +17,7 @@ Az egykezes fegyvereket a vívó tetszése szerint foghatja a markolatuknál vag
 **Kétkezes fegyverek:** Minden olyan fegyver, amely kétkezes markolattal rendelkezik, kétkezes fegyvernek minősül, a penge hosszától függetlenül. A markolat hossza hosszabb, mint 25 cm.  
 
 **MIX-1.1.4**  
-A kétkezes fegyvereket alapvetően két kézzel kell fogni. Ha egy kézzel használják, akkor a markolaton közvetlenül a keresztvas vagy a kosár alatt kell fogni. Kétkezes fegyvernél tilos kizárólag a markolatgombnál/ markolat legvégén fogva találatot elérni. Az ilyen jellegű akció kísérlete sárga lapos büntetést von maga után.  
+A kétkezes fegyvereket alapvetően két kézzel kell fogni. Ha egy kézzel használják, akkor a markolaton közvetlenül a keresztvas vagy a kosár alatt kell fogni. Kétkezes fegyvernél tilos kizárólag a markolatgombnál/markolat legvégén fogva találatot elérni. Az ilyen jellegű akció az 1. csoportos vétségek kategóriájába tartozik (vö. [DIS-4.1.1]–[DIS-4.1.5], [DIS-4.1.9]–[DIS-4.1.10], [DIS-4.1.18]), és az így elért találatot érvényteleníteni kell (vö. [DIS-4.1.15]).
 
 **MIX-1.1.5**  
 A markolaton való fogásváltás céljából a vívó elengedheti a fegyvert a fő kezével, és tarthatja csak a hátsó kezével, de ilyen fogásmódban vívni tilos.  
@@ -31,7 +31,10 @@ Egy vívó egyidejűleg a következő fegyverkombinációkat használhatja:
 - Egy darab kétkezes fegyver és egy darab egykezes fegyver (különleges eset, pl. hosszúkard vagy másfélkezes kard pajzzsal együtt használva; vagy hosszúkard egy tőrrel, amennyiben a vívó mindkettőt biztonságosan tudja tartani). A fegyverek megfogása a mérkőzés közben változtatható (pl. hosszúkard egy kézbe vétele), mivel ez nem minősül fegyvercserének.  
 
 **MIX-1.1.7**  
-Fegyver elejtése sárga büntetőlapot von maga után.
+A fegyver véletlen elejtése 1. csoportos vétség (első alkalommal sárga, ismételt esetben piros lap; vö. [DIS-4.1.9]–[DIS-4.1.10]), és a bíró azonnal „Állj!” parancsot ad (vö. [GEN-6.9.2.9]).
+
+**MIX-1.1.7.1**  
+A fegyver küzdelem közbeni szándékos elejtése vagy eldobása (Köpeny kivételével) 2. csoportos vétség (azonnali piros lap; vö. [GEN-7.6.4], [DIS-4.1.11]).
 
 ### Fegyverkombinációs szabályok
 <span id="MIX-1.2"></span>  
@@ -88,7 +91,7 @@ A fegyver markolatát érő találat érvényesnek számít, ez kézfej találat
 A penge nélküli fegyverekkel (pl. pajzs, köpeny) nem lehet pontot elérni; ezek kizárólag védekezésre, figyelemelterelésre és az ellenfél fegyverének kontrollálására használhatók.  
 
 **MIX-1.3.6**  
-A fegyvereket tilos eldobni. Ez alól az egyetlen kivétel a köpeny, amely eldobható az ellenfél zavarása céljából.  A fegyverek eldobás vagy elejtése büntetőlapot von maga után.
+A fegyvereket tilos eldobni (vö. [GEN-6.16.1]). Ez alól az egyetlen kivétel a köpeny, amely eldobható az ellenfél zavarása céljából. A fegyver eldobása 2. csoportos vétség (azonnali piros lap és az elért találat érvénytelenítése; vö. [DIS-4.1.11], [DIS-4.1.18] / 2.1), szándékos brutalitás vagy veszélyeztetés esetén pedig 4. csoportos vétség. A fegyver elejtését a MIX-1.1.7 szerint kell büntetni.
 
 **MIX-1.3.7**  
 **Rövid pengéjű egykezes fegyverek (50 cm vagy annál rövidebb penge):** A MIX-1.3.1-től eltérően ezekkel a fegyverekkel kizárólag szúrni szabad, ütni és vágni tilos. Mivel a kosár és a keresztvas túl közel van a penge vágóéléhez, az éllel történő támadás balesetveszélyes lenne. Érvényes találatot kizárólag a penge hegyével lehet elérni; a penge élével vagy lapjával elért érintés nem ér pontot.  

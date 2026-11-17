@@ -17,7 +17,7 @@ A fencer may hold a one-handed weapon by its grip or pommel, as they prefer.
 **Two-handed weapons:** Any weapon with a two-handed grip is considered a two-handed weapon, regardless of blade length. The grip is longer than 25 cm.
 
 **MIX-1.1.4**
-Two-handed weapons must generally be held with both hands. If used with one hand, the hand must hold the grip directly below the crossguard or basket. With a two-handed weapon, scoring a hit while holding only the pommel/end of the grip is prohibited. Attempting to do so incurs a yellow-card penalty.
+Two-handed weapons must generally be held with both hands. If used with one hand, the hand must hold the grip directly below the crossguard or basket. With a two-handed weapon, scoring a hit while holding only the pommel/end of the grip is prohibited. An action of this nature is a first-group offence (cf. [DIS-4.1.1]–[DIS-4.1.5], [DIS-4.1.9]–[DIS-4.1.10], [DIS-4.1.18]), and any hit scored in this manner is annulled (cf. [DIS-4.1.15]).
 
 **MIX-1.1.5**
 To change their grip, a fencer may release the weapon with their primary hand and hold it only with their rear hand, but fencing in this grip is prohibited.
@@ -31,7 +31,10 @@ A fencer may use the following weapon combinations at the same time:
 - One two-handed weapon and one one-handed weapon (a special case, for example, using a longsword or hand-and-a-half sword with a shield, or a longsword with a dagger, provided the fencer can hold both safely). A fencer may change how they hold their weapons during a bout (for example, taking a longsword in one hand), as this does not count as a weapon change.
 
 **MIX-1.1.7**
-Dropping a weapon incurs a yellow-card penalty.
+Accidentally dropping a weapon (excluding the deliberate putting down of a secondary weapon under MIX-1.2.4) is a first-group offence (yellow card on the first offence, red card on subsequent offences; cf. [DIS-4.1.9]–[DIS-4.1.10]), and the Referee immediately calls "Halt!" (cf. [GEN-6.9.2.9]).
+
+**MIX-1.1.7.1**
+Deliberately dropping or throwing a weapon (except for Cloaks) during the fencing phrase is a second-group offence (immediate red card; cf. [GEN-7.6.4], [DIS-4.1.11]).
 
 ### Weapon combination rules
 <span id="MIX-1.2"></span>
@@ -88,7 +91,7 @@ A hit to the weapon grip is valid and has the same value as a hit to the back of
 Weapons without blades (for example, shields or cloaks) cannot score points; they may only be used for defence, distraction, and controlling the opponent's weapon.
 
 **MIX-1.3.6**
-Weapons may not be thrown. The only exception is a cloak, which may be thrown to distract the opponent. Throwing or dropping a weapon incurs a penalty card.
+Weapons may not be thrown (cf. [GEN-6.16.1]). The only exception is a cloak, which may be thrown to distract the opponent. Throwing a weapon is a second-group offence (immediate red card and annulment of any hit scored; cf. [DIS-4.1.11], [DIS-4.1.18] / 2.1), or a fourth-group offence in cases of deliberate brutality or endangerment. Dropping a weapon is penalised in accordance with MIX-1.1.7.
 
 **MIX-1.3.7**
 **One-handed weapons with short blades (blade length of 50 cm or less):** Unlike the rule in MIX-1.3.1, these weapons may only be used to thrust; striking and cutting are prohibited. As the basket and crossguard are very close to the blade's cutting edge, an attack with the edge would be dangerous. A valid hit may only be scored with the point; contact with the edge or flat does not score a point.
