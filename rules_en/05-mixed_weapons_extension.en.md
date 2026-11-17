@@ -103,7 +103,7 @@ Deliberate or dangerous execution of a strike or cut is a first-group offence (c
 <span id="MIX-1.4"></span>
 
 **MIX-1.4.1**
-The Afterblow system rules apply to every bout, however, the restriction in [LS-AB-1.1.4] (under which hits delivered with a two handed sword in one-handed grip are always worth 1 point) does not apply in the Mixed Weapons category; as, in this category, this constitutes a method of weapon use classified as a Group 1 offense.
+The Afterblow system rules apply to every bout, however, the restriction in [LS-AB-1.1.4] (under which hits delivered with a two handed sword in one-handed grip are always worth 1 point) does not apply in the Mixed Weapons category; as, in this category two-handed weapons must be held accordingly to [MIX-1.1.4]. no difference is made between one-handed and two-handed grips in scoring hits.
 
 **MIX-1.4.2**
 **Priority target — 2 points:** Head, torso, upper arm.
