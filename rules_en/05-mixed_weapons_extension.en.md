@@ -55,7 +55,7 @@ During a bout, a fencer may put down or discard a secondary weapon if they prefe
 If a weapon is damaged during a bout, the fencer may replace it with a weapon of the same style (for example, a rapier with a rapier, or a messer with a messer). If no replacement weapon is available, the fencer must continue with their remaining weapon(s).
 
 **MIX-1.2.6**
-If a fencer cannot replace their primary weapon, they may continue fighting with their secondary weapon, provided it can score points. If they have no weapon capable of scoring and cannot obtain a replacement of their original weapon style, the fencer loses all their points, may not continue the bout, and their opponent is declared the winner.
+If a fencer cannot replace their primary weapon within the replacement time limit of up to 5 minutes allowed by the Referee (cf. [GEN-5.2.4]), they may continue fighting with their secondary weapon, provided it can score points. If they have no weapon capable of scoring and cannot obtain a replacement of their original weapon style within the time limit, the general rules apply (cf. [GEN-5.2.4], [GEN-6.12]): the fencer may not continue the bout (and may be excluded from the event), their opponent is declared the winner, and the score is recorded in accordance with [GEN-6.12].
 
 **MIX-1.2.7**
 **Changing a weapon within the same weapon style:** The primary weapon style may not be changed during the competition (see MIX-1.2.1), and the secondary weapon may only be changed between bouts (see MIX-1.2.3). Two weapons are considered to be of the same style if their blade type, length, and handling are substantially the same; a difference in the grip or guard construction alone does not make them different weapon styles.
@@ -91,16 +91,19 @@ A hit to the weapon grip is valid and has the same value as a hit to the back of
 Weapons without blades (for example, shields or cloaks) cannot score points; they may only be used for defence, distraction, and controlling the opponent's weapon.
 
 **MIX-1.3.6**
-Weapons may not be thrown (cf. [GEN-6.16.1]). The only exception is a cloak, which may be thrown to distract the opponent. Throwing a weapon is a second-group offence (immediate red card and annulment of any hit scored; cf. [DIS-4.1.11], [DIS-4.1.18] / 2.1), or a fourth-group offence in cases of deliberate brutality or endangerment. Dropping a weapon is penalised in accordance with MIX-1.1.7.
+Weapons may not be thrown (cf. [GEN-6.16.1]). The only exception is a cloak, which may be thrown to distract the opponent. Throwing a weapon is a second-group offence (immediate red card and annulment of any hit scored; cf. [DIS-4.1.11], [DIS-4.1.18] / 2.1), or a fourth-group offence in cases of deliberate brutality or endangerment. Dropping a weapon is penalised in accordance with [MIX-1.1.7]-[MIX-1.1.7.1].
 
 **MIX-1.3.7**
 **One-handed weapons with short blades (blade length of 50 cm or less):** Unlike the rule in MIX-1.3.1, these weapons may only be used to thrust; striking and cutting are prohibited. As the basket and crossguard are very close to the blade's cutting edge, an attack with the edge would be dangerous. A valid hit may only be scored with the point; contact with the edge or flat does not score a point.
+
+**MIX-1.3.7.1**
+Deliberate or dangerous execution of a strike or cut is a first-group offence (cf. [DIS-4.1.1]–[DIS-4.1.5], [DIS-4.1.9]–[DIS-4.1.10], [DIS-4.1.18]), or a second-group offence in cases of dangerous, violent, or vindictive action (cf. [DIS-4.1.11], [DIS-4.1.18] / 2.4), and any hit scored in this manner is annulled (cf. [DIS-4.1.15]).
 
 ### Scoring and afterblow
 <span id="MIX-1.4"></span>
 
 **MIX-1.4.1**
-The Afterblow system rules apply to every bout, regardless of whether a weapon is one- or two-handed, or whether it is held in one or both hands.
+The Afterblow system rules apply to every bout, however, the restriction in [LS-AB-1.1.4] (under which hits delivered with a two handed sword in one-handed grip are always worth 1 point) does not apply in the Mixed Weapons category; as, in this category, this constitutes a method of weapon use classified as a Group 1 offense.
 
 **MIX-1.4.2**
 **Priority target — 2 points:** Head, torso, upper arm.
@@ -207,22 +210,24 @@ Shields may be round, oval, elongated, or triangular. Pointed ends or protrusion
 The shield's structure may be made of steel, wood, or hard plastic. It may optionally have a covering made of leather, textile, or foam.
 - **Maximum diameter (largest dimension):** 60 cm
 - **Maximum weight:** 3 kg
-No points may be scored with a shield, and striking with a shield is prohibited.
 
 **MIX-2.3.2**
-**Pushing with a shield:** A sword or the opponent's hand may be pushed aside with a shield, but striking them with it is prohibited. Pushing the opponent's body with a shield is not permitted.
+No points may be scored with a shield, and striking with a shield is prohibited. Striking with a shield is a second-group offence (immediate red card; cf. [DIS-4.1.11], [DIS-4.1.18] / 2.4), and any hit scored in connection with it is annulled (cf. [DIS-4.1.15]).
 
 **MIX-2.3.3**
-Pushing the opponent's hand aside with a sword is judged in the same way as grabbing it (see MIX-2.4.6 and MIX-2.4.7): the Head Referee stops the bout, and only a hit initiated almost immediately after the hand is pushed aside is considered valid.
+**Pushing with a shield:** A sword or the opponent's hand may be pushed aside with a shield, but striking them with it is prohibited (cf. MIX-2.3.1). Pushing the opponent's body with a shield is not permitted; doing so is a first-group offence (cf. [GEN-6.5.2], [DIS-4.1.1]–[DIS-4.1.5], [DIS-4.1.9]–[DIS-4.1.10], [DIS-4.1.18]), and any hit scored by the fencer at fault is annulled (cf. [DIS-4.1.15]).
 
 **MIX-2.3.4**
-**Two parrying weapons (for example, two shields, a shield and a cloak, or two cloaks):** Using two parrying weapons at the same time is permitted. Since parrying weapons (shields, cloaks) cannot score points, a fencer using two parrying weapons may score only by forcing their opponent, without violence, to cross the piste boundary completely (both feet outside the piste).
-Pushing, shoving, or knocking the opponent off the piste using body contact is prohibited. Non-violent displacement off the piste is available to every fencer regardless of weapon category, so pushing an opponent with two parrying weapons does not give that fencer an advantage over the other. A fencer’s first step off the piste results in a warning; subsequent instances award a point to the opponent.
+Pushing the opponent's hand aside with a sword is judged in the same way as grabbing it (see MIX-2.4.6 and MIX-2.4.7): the Head Referee stops the bout, and only a hit initiated almost immediately after the hand is pushed aside is considered valid.
 
 **MIX-2.3.5**
-If one of the two parrying weapons can be attached to the forearm (for example, a shield strapped to the forearm), the fencer may also hold a one-handed weapon. For manageability, only a short or short-bladed one-handed weapon (blade length of 80 cm or less) may be used in this case.
+**Two parrying weapons (for example, two shields, a shield and a cloak, or two cloaks):** Using two parrying weapons at the same time is permitted. Since parrying weapons (shields, cloaks) cannot score points, a fencer using two parrying weapons may score only by forcing their opponent, without violence, to cross the piste boundary completely (both feet outside the piste).
+Pushing, shoving, or knocking the opponent off the piste using body contact is prohibited. Contactless displacement off the piste by occupation of space is available to every fencer regardless of weapon category, so pushing an opponent with two parrying weapons does not give that fencer an advantage over the other. A fencer’s first step off the piste results in a warning; subsequent instances award a point to the opponent.
 
 **MIX-2.3.6**
+If one of the two parrying weapons can be attached to the forearm (for example, a shield strapped to the forearm), the fencer may also hold a one-handed weapon. For manageability, only a short or short-bladed one-handed weapon (blade length of 80 cm or less) may be used in this case.
+
+**MIX-2.3.7**
 **Cloak:**
 - **Material:** Heavy, durable fabric capable of deflecting cuts (weights sewn into it or hard/sharp objects may not be attached).
 - **Maximum length:** 150 cm
@@ -252,7 +257,7 @@ A fencer may grip a stationary, bound (non-moving) weapon at the following locat
 - any surface of a parrying weapon (shield or cloak).
 
 **MIX-2.4.6**
-Wrestling is not permitted (Level 2 wrestlig action), but a fencer may momentarily grab the other fencer's arm to facilitate a hit and/or for defence (Level 1 wrestling action). If this is not followed by a hit almost immediately, the Head Referee must stop the bout. Twisting, jerking, or yanking the opponent's hand is prohibited. Only a single controlled push or pull, or impeding the arm by pinning it, is permitted.
+Wrestling is not permitted (Level 2 wrestling action; unlike [GEN-6.3.1], fencers may not agree to allow it), but a fencer may momentarily grab the other fencer's arm to facilitate a hit and/or for defence (Level 1 wrestling action). Initiating any Level 2 wrestling action is a first-group offence (cf. [GEN-6.9.3.2], [DIS-4.1.1]–[DIS-4.1.5], [DIS-4.1.9]–[DIS-4.1.10], [DIS-4.1.18] / 1.11), and any hit scored by the fencer at fault is annulled (cf. [DIS-4.1.15]). If a permitted arm grab is not followed by a hit almost immediately, the Head Referee must stop the bout. Twisting, jerking, or yanking the opponent's hand is prohibited. Only a single controlled push or pull, or impeding the arm by pinning it, is permitted.
 
 **MIX-2.4.7**
 In the case of an arm grab, the Referee stops the bout immediately. A valid hitting action must begin before the Referee calls "Halt!" (after the Referee notices the action but before issuing the command), and no later than the moment the arm or weapon is controlled.
