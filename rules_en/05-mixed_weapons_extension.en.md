@@ -214,7 +214,7 @@ Pushing the opponent's hand aside with a sword is judged in the same way as grab
 
 **MIX-2.3.4**
 **Two parrying weapons (for example, two shields, a shield and a cloak, or two cloaks):** Using two parrying weapons at the same time is permitted. Since parrying weapons (shields, cloaks) cannot score points, a fencer using two parrying weapons may score only by forcing their opponent, without violence, to cross the piste boundary completely (both feet outside the piste).
-Forcefully pushing, shoving, or knocking the opponent off the piste is prohibited. Non-violent displacement off the piste is available to every fencer regardless of weapon category, so pushing an opponent with two parrying weapons does not give that fencer an advantage over the other.
+Pushing, shoving, or knocking the opponent off the piste using body contact is prohibited. Non-violent displacement off the piste is available to every fencer regardless of weapon category, so pushing an opponent with two parrying weapons does not give that fencer an advantage over the other. A fencer’s first step off the piste results in a warning; subsequent instances award a point to the opponent.
 
 **MIX-2.3.5**
 If one of the two parrying weapons can be attached to the forearm (for example, a shield strapped to the forearm), the fencer may also hold a one-handed weapon. For manageability, only a short or short-bladed one-handed weapon (blade length of 80 cm or less) may be used in this case.

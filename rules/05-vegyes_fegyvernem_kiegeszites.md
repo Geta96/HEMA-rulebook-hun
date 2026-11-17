@@ -214,7 +214,7 @@ Az ellenfél kezének karddal történő eltolása a megfogással azonos elbír�
 
 **MIX-2.3.4**  
 **Két hárítófegyver (pl. két pajzs, pajzs és köpeny, vagy két köpeny):** Két hárítófegyver egyidejű használata engedélyezett. Mivel hárítófegyverrel (pajzs, köpeny) pontot szerezni nem lehet, két hárítófegyver esetén pont kizárólag akkor érhető el, ha az ellenfelet a vívó erőszakmentesen a pást határának teljes átlépésére kényszeríti (mindkét lábbal a páston kívülre).
-Az ellenfél erővel történő kitolása, kilökése vagy fellökése a pástról tilos. A pástról való erőszakmentes kiszorítása az ellenfélnek minden vívó számára elérhető eszköz fegyvernemtől függetlenül, így a két hárítófegyverrel történő kitolás nem jelent előnyt a másik vívóval szemben.  
+Az ellenfél testkontakt használatával történő kitolása, kilökése vagy fellökése a pástról tilos. A pástról való erőszakmentes kiszorítása az ellenfélnek minden vívó számára elérhető eszköz fegyvernemtől függetlenül, így a két hárítófegyverrel történő kitolás nem jelent előnyt a másik vívóval szemben. A vívó első kilépése figyelmeztetést von maga után, azutáni kilépések érnek csak pontot a kiszorító vívónak.  
 
 **MIX-2.3.5**  
 Amennyiben a két hárítófegyver egyike alkarra erősíthető (pl. alkarra szíjazott pajzs), a vívó mellé egy egykezes fegyvert is foghat. A kezelhetőség miatt ebben az esetben kizárólag rövid vagy rövid pengéjű egykezes fegyver (80 cm vagy annál rövidebb penge) használata engedélyezett.  

@@ -528,7 +528,7 @@ Birkózófogással az ellenfél legalább egy lábának elemelése a talajról. 
 Fegyverrel vagy anélkül végrehajtott birkózófogások, amelyek a vívó mozgását, szabadulását megakadályozzák. A kontrolláló helyzet létrejöttét és érvényességét a versenybíró ítéli meg: amikor a versenybíró saját hatáskörében úgy ítéli, hogy a kontrollálás/dominancia követelményei teljesültek, ‘Állj!’-t mond, és 1 pontot ítél a dominálást elszenvedő vívó ellen.  
 
 **GEN-6.9.3.4.4**
-Az ellenfél pástról való kiszorítása/kitolása kontrolláló pontszerző akciónak minősül. (A pástról véletlen vagy találat elkerülésére szolgáló elhagyástól külön elbírálás alá esik). Ezen akció kizárólag akkor tekinthető szabályosnak, amennyiben ez nem jár az ellenfél erőszakos fellökésével, valamint a páston kívül állók veszélyeztetésével. 
+Az ellenfél pástról való testkontakt használatával való kiszorítása/kitolása kontrolláló pontszerző akciónak minősül. (A pástról véletlen vagy találat elkerülésére szolgáló elhagyástól külön elbírálás alá esik). Ezen akció kizárólag akkor tekinthető szabályosnak, amennyiben ez nem jár az ellenfél erőszakos fellökésével, valamint a páston kívül állók veszélyeztetésével. 
 
 **GEN-6.9.3.4.5**
 Dominancia/kontrollálás ítélet nem alkalmazható olyan helyzetekre, ahol az ellenfél ki tud törni a fogásból, és érvényes akciókat tud kezdeményezni, akkor sem, ha valamilyen aktív erőfeszítés eredményeképp a dominálni szándékozó fegyver továbbra is érinti az ellenfél találati felületét. A domináló akciók érvényességét a bíró saját hatáskörében ítéli meg.  
@@ -570,7 +570,7 @@ Ha a vívó valamelyik határvonalat teljesen, tehát mindkét lábbal túlhalad
 Az első kilépésnél a vívó figyelmeztetést kap.  
 
 **GEN-6.11.5.2**  
-Minden, a mérkőzésen belüli további esetben a küzdőtér határvonalát túlhaladó versenyző egy találattal büntetendő (ellenfele egy pontot kap), akkor is ha ténylegesen nem találták el.  
+Minden, a mérkőzésen belüli további esetben a küzdőtér határvonalát túlhaladó versenyző találattal büntetendő (ellenfele a kiosztható legnagyobb pontot kapja), akkor is ha ténylegesen nem találták el.  
 
 **GEN-6.11.6**  
 semmilyen büntetéssel nem büntetendő az a vívó, aki valamelyik határvonalat nem szándékosan, hanem bármilyen váratlan esemény, baleset (például lökés) következtében lépi át.  
