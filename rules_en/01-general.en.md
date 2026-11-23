@@ -227,7 +227,11 @@ Between jacket and trousers there must be no body surface lacking adequate prote
 
 **GEN-5.2.4**  
 #### Weapons  
-Each fencer is responsible for their own weapon. The weapon must be presented in proper condition at the competition: free of burrs and rust, and with any previous tip tape removed. Weapons are inspected by designated staff per the requirements below; if compliant, staff will tape the tip with a visible tape. The piste Referee may re-check weapons at any time and may ban weapons with significant damage. After a weapon is banned, the Referee may allow up to 5 minutes for replacement. If the fencer cannot comply within the time limit, they may not continue and may be excluded from the event.  
+Each fencer is responsible for their own weapon. The weapon must be presented in proper condition at the competition: free of burrs and rust, and with any previous tip tape removed. Weapons are inspected by designated staff per the requirements below; if compliant, staff will tape the tip with a visible tape.
+
+Each weapon may be presented for official inspection once per competition, unless the inspector requests a repair before rejecting it; in that case, it may be presented again after repair. A weapon rejected or banned at inspection may not be resubmitted for approval, even after modification, or used again at that competition. Modifying a weapon's characteristics is illegal.
+
+Referees may still recheck weapons at any time for safety and ban weapons with significant damage. After a weapon is banned, the Referee may allow up to 5 minutes for replacement. If the fencer cannot comply within the time limit, they may not continue and may be excluded from the event.
 
 **GEN-5.2.5**  
 #### Longsword  
@@ -911,8 +915,10 @@ Checked spare equipment is placed by the Referee at the start of the bout next t
 ### Non-regulation equipment  
 <span id="GEN-7.8"></span>  
 
-**GEN-7.8.1**  
-In any situation, if a competitor is found (within the meaning of the Equipment Rules) to possess non-regulation or defective equipment, the Referee confiscates it and submits it to an on-duty expert for examination. The owner may receive the equipment back only after the necessary checks have been completed and any costs arising from repairing the defect have been reimbursed. Before being put back into use, the equipment must be checked again.  
+**GEN-7.8.1**
+In any situation, if a competitor is found (within the meaning of the Equipment Rules) to possess non-regulation or defective equipment, the Referee confiscates it and submits it to an on-duty expert for examination. The owner may receive the equipment back only after the necessary checks have been completed and any costs arising from repairing the defect have been reimbursed. Before being put back into use, the equipment must be checked again.
+
+Weapons rejected or banned at inspection are subject to GEN-5.2.4 and may not be used again at the same competition, even after modification.
 
 **GEN-7.8.2**  
 If a fencer appears on the piste with:  

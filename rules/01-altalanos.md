@@ -231,7 +231,11 @@ testfelület. Javasolt a derékig érő vívónadrágok használata.
 
 **GEN-5.2.4**  
 #### Fegyverek  
-Minden vívó a saját fegyveréért felelős. Azt a versenyen megfelelő állapotban, sorja és rozsdamentesen, a hegyéről minden korábbi bandázst eltávolítva kell prezentálnia. A fegyvereket a tornán erre kijelölt személyzet ellenőrzi az alábbiakban meghatározott feltételeknek megfelelően, megfelelőség esetén annak hegyét a torna erre kijelölt személyzet bebandázsolja. Az egyes pástok vezető bírói bármikor újra ellenőrizhetik a fegyvereket, azokat nagyobb sérülések esetén kitilthatják a versenyről. A vívó fegyverének kitiltása után a bíró legfeljebb 5 percnyi időt hagyhat annak cseréjére. Ha a vívó nem tud ennek eleet tenni a fenti időkereten belül, akkor nem foytathatja a versenyzést, kizárásra kerülhet a versenyszámból.  
+Minden vívó a saját fegyveréért felelős. Azt a versenyen megfelelő állapotban, sorja és rozsdamentesen, a hegyéről minden korábbi bandázst eltávolítva kell prezentálnia. A fegyvereket a tornán erre kijelölt személyzet ellenőrzi az alábbiakban meghatározott feltételeknek megfelelően, megfelelőség esetén annak hegyét a torna erre kijelölt személyzet bebandázsolja.
+
+Az adott versenyen minden fegyver egyszer mutatható be hivatalos fegyverellenőrzésre, kivéve, ha az ellenőr elutasítás előtt javítást kér; ilyen esetben a fegyver javítás után újra bemutatható. Az ellenőrzésen elutasított vagy kitiltott fegyver ugyanazon a versenyen módosítás után sem mutatható be újra engedélyeztetésre, és nem használható. A fegyver karakterisztikájának módosítása illegális.
+
+Az egyes pástok vezető bírói a fegyvereket biztonsági okból továbbra is bármikor újra ellenőrizhetik, és nagyobb sérülés esetén kitilthatják a versenyről. A vívó fegyverének kitiltása után a bíró legfeljebb 5 percnyi időt hagyhat annak cseréjére. Ha a vívó nem tud ennek eleet tenni a fenti időkereten belül, akkor nem foytathatja a versenyzést, kizárásra kerülhet a versenyszámból.
 
 **GEN-5.2.5**  
 #### Hosszúkard  
@@ -956,7 +960,9 @@ helyezi a megfelelő vívó oldalára.
 <span id="GEN-7.8"></span>  
 
 **GEN-7.8.1**  
-Bármely helyzetben, ha egy versenyző (a Felszerelés Szabályzat értelmében) szabályellenes vagy hibás felszerelés birtokában van <!--(vö. m.8, m9, m.12, m.13, m.16, m.17, m.23)-->, a versenybíró elkobozza azt, és vizsgálatra átadja a szolgálatban lévő szakembernek. A tulajdonos a felszerelést csak akkor kaphatja vissza, ha a szükséges ellenőrzéseket már elvégezték és ha a hiba kijavítása kapcsán esetlegesen felmerülő költségeket megtérítette. A felszerelést az ismételt használatba vétel előtt újból ellenőrizni kell.  
+Bármely helyzetben, ha egy versenyző (a Felszerelés Szabályzat értelmében) szabályellenes vagy hibás felszerelés birtokában van <!--(vö. m.8, m9, m.12, m.13, m.16, m.17, m.23)-->, a versenybíró elkobozza azt, és vizsgálatra átadja a szolgálatban lévő szakembernek. A tulajdonos a felszerelést csak akkor kaphatja vissza, ha a szükséges ellenőrzéseket már elvégezték és ha a hiba kijavítása kapcsán esetlegesen felmerülő költségeket megtérítette. A felszerelést az ismételt használatba vétel előtt újból ellenőrizni kell.
+
+Az ellenőrzésen elutasított vagy kitiltott fegyverekre a GEN-5.2.4 előírásai vonatkoznak; ilyen fegyver ugyanazon a versenyen módosítás után sem használható újra.
 
 **GEN-7.8.2**  
 Ha a vívó a páston:  

@@ -164,12 +164,29 @@ During weapon registration, weapons that require a Longsword Level Glove or Sabr
 **Blade:**
 - **Blade construction:** Straight and curved blades are both permitted. Weapons must be suitable and safe for freeplay. Blades must have thick, blunted edges. The blade tip must be rolled or spatulated.
 - **Blade material:** Flexible carbon steel and heat-treated spring steel blades are permitted.
+- **One-handed weapons with short blades (blade length of 50 cm or less):** Rubber training daggers are also permitted in this category (for example, the Cold Steel Rubber Rondel Dagger). 
+
+Note: 
+- Rubber daggers may be more easily damaged when used against metal weapons. 
+- Defending with them can be difficult because their color and the sound of a parry may make it harder for the referee to determine whether a hit landed on the weapon or the glove. If the referee cannot determine this clearly, a hand hit must be awarded. For this reason, rubber weapons are recommended for offensive use only.
 
 **MIX-2.2.2**
-Modified weapons (for example, with parts sawn off or weights glued or taped on) are prohibited. Weapons with replaceable parts are not considered illegally modified. Weapons with repaired or replaced grips, including those wrapped in leather or cord, are also not considered illegally modified.
+Weapons must be used in the condition/specification designed by the manufacturer. Altering their characteristics or making any modification that could affect the safe use of the weapon is not permitted.
+
+Illegally modified weapons:
+- with cut-off parts (for example, a shortened crossguard);
+- weapons fitted with glued-on or taped-on weights;
+- weapons modified or repaired with conspicuous subsequent welding;
+- any subsequent modification of the blade (thinning the blade with a rotary sander/grinder or by other means)
+
+Not considered an illegal modification:
+- using interchangeable parts of the weapon;
+- repairing or replacing the grip/handle (for example, with leather wrapping or cord wrapping);
+- repairing or sanding/grinding down rust or sharp, chipped edges/parts;
+- repair or modification carried out by the original manufacturer of the weapon
 
 **MIX-2.2.3**
-**Condition:** The blade must have no sharp or chipped areas, burrs, or rust, and there must be no cracks in the blade or any other part of the weapon.
+**Condition:** The blade must have no sharp or chipped areas, burrs, or rust, and there must be no cracks in the blade or any other part of the weapon. A small degree of movement in a weapon's fittings and crossguard is permitted.
 
 **MIX-2.2.4**
 **Safety of contact surfaces:** Every part of the weapon that could come into contact with the opponent—regardless of whether it is considered a valid target for scoring purposes (for example, the crossguard, basket, knucklebow, parrying ring, cup guard, or pommel)—must be blunt and free of burrs.

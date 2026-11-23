@@ -164,12 +164,29 @@ A fegyverek regisztrációja során azokat a fegyvereket, amelyek hosszúkard sz
 **Penge:** 
 - **Penge kialakítása:** Egyenes és ívelt pengék egyaránt engedélyezettek. A fegyvereknek szabadvívásra alkalmasnak, biztonságosnak kell lenniük. A pengéknek vastag, tompított éllel kell rendelkezniük. A penge hegyének visszahajlítottnak (rolled) vagy spatulásnak kell lennie.
 - **Penge anyaga:** Rugalmas szénacél és rugóacélből készült hőkezelt pengék engedélyezettek.
+- **Rövid pengéjű egykezes fegyverek (50 cm vagy rövidebb penge):** Ebben a kategóriában gumiból készült gyakorlótőrök is engedélyezettek (például Cold Steel gumiból készült Rondel tőr). 
+
+Megjegyzés:
+- A gumi tőrök a fémfegyverekkel szemben könnyebben sérülhetnek. 
+- A velük való védekezés nehézkes lehet, mert a fegyver színe és a hárítás hangja miatt a bíró nehezebben tudja megállapítani, hogy a találat a fegyvert vagy a kesztyűt érte-e. Ha ezt nem tudja egyértelműen eldönteni, kéztalálatot kell ítélnie. Az ilyen gumifegyvereket ezért kizárólag támadásra ajánlott használni.
  
 **MIX-2.2.2**  
-Módosított fegyverek (pl. lefűrészelt alkatrészek, felragasztott vagy rászalagozott súlyok) használata tilos! A cserélhető alkatrészekkel rendelkező fegyverek nem minősülnek illegálisan módosított fegyvernek. Javított vagy kicserélt markolat bőrözéssel, zsinórozással rendelkező fegyverek sem minősülnek illegálisan módosított fegyvernek.
+A fegyverek gyártó által tervezett minőségükben kell használni. Karakterisztikájuk megváltoztatása vagy bármely olyan változtatás, amely a fegyver biztonságos használatát befolyásolhatja nem engedélyezett.
+
+Illegálisan módosított fegyverek:
+- levágott alkatrészekekkel (például rövidített keresztvas);
+- felragasztott vagy rászalagozott súlyokkal ellátott fegyverek;
+- látványos, utólagos hegesztéssel módosított, javított fegyverek;
+- a pengének bármilyen utólagos módosítása (penge körcsiszolóval vagy más módon történő vékonyítása)
+
+Nem minősül illegális módosításnak:
+- a fegyver cserélhető alkatrészeinek használata;
+- a markolat javítása vagy cseréje (például bőrözéssel, zsinórozással);
+- rozsda vagy éles, csorbult részek javítása, csiszolása;
+- a fegyver eredeti gyártója által készített javítása, módosítása
 
 **MIX-2.2.3**  
-**Állapot:** A pengén nem lehetnek éles, kicsorbult részek, sorja, rozsda, és nem lehetnek repedések sem a pengén, sem a fegyver többi részén. 
+**Állapot:** A pengén nem lehetnek éles, kicsorbult részek, sorja, rozsda, és nem lehetnek repedések sem a pengén, sem a fegyver többi részén. A fegyverek szerelékének, keresztvasának a mozgása alacsony mértékig megengedett.
 
 **MIX-2.2.4**  
 **Kontaktfelületek biztonsága:** A fegyver minden olyan részének, amely az ellenféllel érintkezhet – függetlenül attól, hogy az a pontrendszer szerint érvényes találófelületnek számít-e (pl. keresztvas, kosár, kengyel/hárítóív, hárítógyűrű, csészevédő, markolatgomb) –, tompának és sorjamentesnek kell lennie.  
