@@ -357,7 +357,7 @@ A büntetések a következők:
 a figyelmeztetés, melyet a versenybíró SÁRGA LAP felmutatásával fejez ki, megjelölve a vétkes vívót. A vétkes vívó tudomásul veszi, hogy részéről bármilyen újabb vétség elkövetése büntető találatot von maga után.  
 
 **DIS-4.1.5.2**  
-a büntető találat, melyet PIROS LAP felmutatásával fejez ki a versenybíró, megjelölve a vétkes vívót. Ebben az esetben az ellenfél adott találataihoz egy találatot hozzá kell adni, ami ha az utolsó találatról van szó maga után vonhatja a mérkőzés elvesztését. Ezen felül minden PIROS LAP felmutatását csak újabb PIROS LAP vagy FEKETE LAP követheti a második vétség természetétől függően (vö: [DIS-4.1.18]). 
+a büntető találat, melyet PIROS LAP felmutatásával fejez ki a versenybíró, megjelölve a vétkes vívót. Ebben az esetben az ellenfél pontjaihoz az adott versenyen egyetlen találatra kiosztható legnagyobb pontszámot hozzá kell adni, ami — ha ez eléri vagy meghaladja a győzelemhez szükséges pontszámot — maga után vonhatja a mérkőzés elvesztését. Ezen felül minden PIROS LAP felmutatását csak újabb PIROS LAP vagy FEKETE LAP követheti a második vétség természetétől függően (vö: [DIS-4.1.18]). 
 
 **DIS-4.1.5.3**  
 a versenyszámból való kizárás, felfüggesztés a verseny további részéből,<!-- és 60 napos eltiltás az aktív vívóévadból, --> melyet a FEKETE LAP felmutatásával fejez ki a versenybíró, megjelölve a vétkes vívót.    

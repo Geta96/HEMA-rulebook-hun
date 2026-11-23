@@ -525,7 +525,7 @@ Using a wrestling hold to lift at least one of the opponent's feet off the groun
 Wrestling holds, with or without the weapon, that prevent the opponent from moving or escaping. The Referee determines whether a control position has been established and is valid. When, at the Referee's discretion, the requirements for control/dominance have been met, they call "Halt!" and award 1 point against the dominated fencer.
 
 **GEN-6.9.3.4.4**
-Forcing or pushing the opponent off the piste is considered a scoring control action. (This is judged separately from accidentally leaving the piste or leaving it to avoid a hit.) This action is permitted only if it does not involve violently knocking the opponent down or endanger anyone outside the piste.
+Forcing or pushing the opponent off the piste using body contact is considered a scoring control action. (This is judged separately from accidentally leaving the piste or leaving it to avoid a hit.) This action is permitted only if it does not involve violently knocking the opponent down or endanger anyone outside the piste.
 
 **GEN-6.9.3.4.5**
 A dominance/control judgement does not apply in situations where the opponent can break free from the hold and initiate valid actions, even if, through active effort, the would-be dominating fencer's weapon continues to touch the opponent's target. The Referee determines the validity of the dominating actions at their discretion.
@@ -566,7 +566,7 @@ If a fencer steps completely beyond a boundary (both feet) without having scored
 On the first exit, the fencer receives a warning.  
 
 **GEN-6.11.5.2**  
-On any further exit in the same bout, the exiting competitor is penalised by a hit against them (the opponent receives one point), even if the competitor was not actually hit.  
+On any further exit in the same bout, the exiting competitor is penalised by a hit against them (the opponent receives the highest score available for a single hit), even if the competitor was not actually hit.  
 
 **GEN-6.11.6**  
 No penalty applies where a fencer leaves the boundary not intentionally but due to unexpected events or accidents (e.g. being pushed).  
@@ -608,7 +608,7 @@ One fencer reaches the defined number of hits (or in Afterblow: the defined scor
         - if the score is tied, the scores must be reset to 6–6 and a decisive hit must be scored before the time limit ends. Equivalent simultaneous hits are not taken into account (and the fencers remain where they were on the piste);
         - the winner's score must be recorded as 7 on the score sheet, even if the final hit's point value would exceed that.
 
-**GEN-6.12.4.1.4**  
+**GEN-6.12.4.4**  
 The score sheet records the final score (V–n, where n = the loser's hits/points).  
 
 **GEN-6.12.4.2**  
